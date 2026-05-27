@@ -1,0 +1,126 @@
+[
+  {
+    "id": "c1",
+    "username": "team fashion học đường",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:09:00+07:00",
+    "body": "đứng đầu mê cách phối khăn 🔥 nhìn đơn giản mà visual đỉnh nóc kịch trần, sáng nay cả lớp em buộc khăn y chang luôn 😆",
+    "likes": 31420
+  },
+  {
+    "id": "c2",
+    "username": "khóc thét vì xinh",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T09:26:00+07:00",
+    "body": "u là trời bạn ấy mặc đồng phục cũ mà cứ như đi fashion week, trộm vía visual với gu thẩm mỹ đỉnh 🥹✨",
+    "likes": 24310
+  },
+  {
+    "id": "c3",
+    "username": "Cô giáo chủ nhiệm cũ",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Tôi từng dạy lớp có nhiều em phải chuyển trường vì di dời khí hậu. Các em rất nghị lực. Thấy em này được yêu thương như vậy tôi mừng rơi nước mắt 🥹",
+    "likes": 28920
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ hai con",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T10:15:00+07:00",
+    "body": "Tôi không hiểu sao buộc cái khăn chống nắng lại thành mốt. Thời tôi khăn để che nắng thôi. Nhưng con bé xinh thật, chúc cháu mạnh khoẻ.",
+    "likes": 16820
+  },
+  {
+    "id": "c5",
+    "username": "team cảm động",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:42:00+07:00",
+    "body": "đằng sau trend dễ thương là một bạn phải rời quê vì lũ. thương ghê 🥹 mong bạn ấy luôn vui ở trường mới",
+    "likes": 22310
+  },
+  {
+    "id": "c6",
+    "username": "tui cũng buộc khăn nè",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:10:00+07:00",
+    "body": "gét gô làm theo liền, buộc khăn kiểu này vừa chống nắng vừa xinh, đúng kiểu Việt Nam mình 🔥",
+    "likes": 14620
+  },
+  {
+    "id": "c7",
+    "username": "lý hồng vân",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "đẹp từ cái khó mà ra, bạn ấy biến đồng phục cũ thành phong cách riêng. nể phục thật sự ✨",
+    "likes": 12420,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "fan của icon",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T12:01:00+07:00",
+        "body": "đúng luôn, không cần đồ hiệu vẫn slay. bạn ấy là icon thật sự của tụi mình 👑",
+        "likes": 7210
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "real hông trend",
+    "location": "Khác",
+    "timestamp": "2045-04-25T12:20:00+07:00",
+    "body": "real hông trời, ở trường quốc tế bên này tụi bạn cũng đang bắt chước cách buộc khăn này 😆 tự hào ghê",
+    "likes": 11320
+  },
+  {
+    "id": "c9",
+    "username": "antifashion nhẹ",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "thật ra cái này thành trend cũng tốt nhưng mong báo đừng quên bạn ấy phải di dời vì khí hậu, đừng chỉ khai thác visual 🥹",
+    "likes": 13820,
+    "replies": [
+      {
+        "id": "c9-r1",
+        "username": "đồng ý nha",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:12:00+07:00",
+        "body": "chuẩn, hi vọng có chương trình hỗ trợ học sinh di dời chứ ko chỉ là trend cho vui 😢",
+        "likes": 6740
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "username": "chữa lành mỗi sáng",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T13:40:00+07:00",
+    "body": "đọc tin này xong thấy chữa lành ghê, giữa bao drama thì một câu chuyện nhỏ ấm áp như vầy quý lắm 🥹",
+    "likes": 9420
+  },
+  {
+    "id": "c11",
+    "username": "stylist tương lai",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:30:00+07:00",
+    "body": "đây mới là thời trang bền vững nè mọi người, tận dụng đồ cũ mà vẫn đẹp. visual đỉnh và ý nghĩa luôn 🔥✨",
+    "likes": 12230
+  },
+  {
+    "id": "c12",
+    "username": "share cổ vũ bạn",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T16:50:00+07:00",
+    "body": "share gấp cổ vũ bạn ấy, mong bạn vững vàng ở trường mới và luôn xinh xắn tự tin như vậy 🥹💪",
+    "likes": 6230
+  },
+  {
+    "id": "c13",
+    "username": "đứng hình vì dễ thương",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T18:20:00+07:00",
+    "body": "u là trời em xem clip mà mỉm cười cả buổi, mãi mận bạn icon đồng phục của tụi em 🥹👑",
+    "likes": 15320
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c1",
+    "username": "khóc cạn nước mắt",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:06:00+07:00",
+    "body": "đứng đầu mà khóc thét 😭 nghe diva song ca với giọng mẹ quá cố tôi khóc nguyên buổi sáng luôn, không trụ nổi 🥹",
+    "likes": 54320
+  },
+  {
+    "id": "c2",
+    "username": "fan cải lương đời đầu",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T09:22:00+07:00",
+    "body": "u là trời nghe lại giọng cô ấy mà tôi tưởng cô còn sống. trộm vía công nghệ giọng nói thừa kế đỉnh thật 😭",
+    "likes": 31240
+  },
+  {
+    "id": "c3",
+    "username": "team trân trọng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "có người nói dùng giọng người mất là phản cảm, nhưng đây là mẹ ruột chị Thanh Hà mà, ai có quyền hơn chị 🥹",
+    "likes": 22810,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "hơi lăn tăn",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T10:04:00+07:00",
+        "body": "mình ko phản đối nhưng vẫn thấy hơi rợn, nghe giọng người đã mất hát thiệt sự lạ 😢",
+        "likes": 9320
+      },
+      {
+        "id": "c3-r2",
+        "username": "team trân trọng",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T10:20:00+07:00",
+        "body": "mình hiểu mà, nhưng với chị ấy đây là cách để được hát cùng mẹ lần cuối thôi 🥹 chữa lành lắm",
+        "likes": 11420
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Bác Năm nghe cải lương",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T10:38:00+07:00",
+    "body": "Tôi nghe nghệ sĩ mẹ của Thanh Hà từ thời tôi còn trẻ. Hôm nay nghe lại giọng bà, tôi 68 tuổi mà ngồi khóc như con nít. Cảm ơn các cháu làm ra cái này.",
+    "likes": 28930
+  },
+  {
+    "id": "c5",
+    "username": "mãi mận diva",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T11:10:00+07:00",
+    "body": "6 năm ở ẩn rồi comeback bằng bản duet này, chị Thanh Hà đỉnh nóc kịch trần. center mãi mận 👑😭",
+    "likes": 18420
+  },
+  {
+    "id": "c6",
+    "username": "tôi mất mẹ năm ngoái",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "nghe xong tôi ước gì có giọng mẹ tôi để nghe lại một lần. khóc thét, ai còn mẹ thì trân trọng nha 🥹",
+    "likes": 36210
+  },
+  {
+    "id": "c7",
+    "username": "lê quỳnh nga",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:20:00+07:00",
+    "body": "công nghệ dùng đúng chỗ thì đẹp như vậy đó, không phải lúc nào AI cũng đáng sợ. chữa lành thật sự ✨",
+    "likes": 14320
+  },
+  {
+    "id": "c8",
+    "username": "phản đối nhẹ",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "mình tôn trọng nhưng vẫn nghĩ nên để người mất yên nghỉ, dựng giọng lên hát lại làm mình hơi buồn 😢",
+    "likes": 8210,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "fan trung thành",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T13:12:00+07:00",
+        "body": "gia đình đồng ý rồi bạn ơi, đây là di nguyện của mẹ chị ấy mà 🥹 đừng buồn",
+        "likes": 6740
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "real hông mà hay quá",
+    "location": "Khác",
+    "timestamp": "2045-04-25T13:40:00+07:00",
+    "body": "real hông trời, đang ở nước ngoài nghe bản này mà nhớ nhà nhớ ngoại khóc nguyên đêm 😭",
+    "likes": 12830
+  },
+  {
+    "id": "c10",
+    "username": "hết nước chấm",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T14:25:00+07:00",
+    "body": "đoạn hai giọng hoà vào nhau ở điệp khúc hết nước chấm, tôi nghe đi nghe lại 20 lần rồi 😭🔥",
+    "likes": 16240
+  },
+  {
+    "id": "c11",
+    "username": "chữa lành mỗi tối",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T15:30:00+07:00",
+    "body": "share gấp cho ai đang nhớ người thân đã mất, bản này chữa lành lắm mọi người ơi 🥹",
+    "likes": 9420
+  },
+  {
+    "id": "c12",
+    "username": "fan ruột 30 năm",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T16:50:00+07:00",
+    "body": "theo chị Thanh Hà 30 năm rồi, lần comeback này là cảm động nhất. mong chị khoẻ và hát lâu thật lâu 👑🥹",
+    "likes": 13820
+  },
+  {
+    "id": "c13",
+    "username": "đứng hình luôn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T18:30:00+07:00",
+    "body": "u là trời nghe lúc 6h sáng đi làm trên tàu mà tôi khóc trước mặt cả toa, quê mà cản không nổi 😭",
+    "likes": 20310
+  }
+]

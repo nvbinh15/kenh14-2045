@@ -1,0 +1,108 @@
+[
+  {
+    "id": "c1",
+    "username": "team trải nghiệm thật",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:09:00+07:00",
+    "body": "đứng đầu mê quán này 🥹 xếp hàng 2 tiếng chỉ để được người thật pha cho ly cà phê, có khi pha lỗi mà vẫn thấy ấm 😭 chữa lành ghê",
+    "likes": 34420
+  },
+  {
+    "id": "c2",
+    "username": "cười xỉu pha lỗi",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:26:00+07:00",
+    "body": "u là trời đi uống cà phê để được phục vụ bởi con người, còn được pha lỗi nữa 😂 đúng kiểu 2045 đảo ngược hết",
+    "likes": 28310
+  },
+  {
+    "id": "c3",
+    "username": "Bác chủ quán xưa",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Tôi mở quán cà phê 30 năm, pha tay cả đời. Giờ máy pha hết rồi, tôi nghỉ. Đọc tin này tôi mừng, hoá ra người ta vẫn thèm cái chất con người trong ly cà phê.",
+    "likes": 26920
+  },
+  {
+    "id": "c4",
+    "username": "team hoài niệm",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T10:15:00+07:00",
+    "body": "trộm vía nhớ hồi xưa quán nào cũng có anh chị barista người thật, giờ thành đặc sản phải xếp hàng 😭 thời gian trôi nhanh thật",
+    "likes": 21310
+  },
+  {
+    "id": "c5",
+    "username": "mãi mận barista người",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:42:00+07:00",
+    "body": "anh barista vừa pha vừa hỏi mình hôm nay thế nào, cái đó máy không làm được 🥹 chữa lành hơn cả ly cà phê luôn",
+    "likes": 16420
+  },
+  {
+    "id": "c6",
+    "username": "Chú thích cà phê máy",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T11:10:00+07:00",
+    "body": "Tôi thấy máy pha ngon hơn, đều hơn, nhanh hơn. Xếp hàng 2 tiếng để uống ly pha lỗi thì tôi chịu. Mỗi người một sở thích.",
+    "likes": 14820,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "team người thật",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T11:27:00+07:00",
+        "body": "chú ơi tụi con đâu đến vì ngon, tụi con đến vì cảm giác có người pha cho 🥹 khác nhau ở đó",
+        "likes": 8210
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "lý thuỳ dương",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "buồn cười mà cũng buồn ghê, tới mức tương tác với con người trở thành thứ xa xỉ phải xếp hàng 😢 thời này lạ thật",
+    "likes": 17230
+  },
+  {
+    "id": "c8",
+    "username": "real hông check in",
+    "location": "Khác",
+    "timestamp": "2045-04-25T12:20:00+07:00",
+    "body": "real hông trời, bên này cũng có quán barista người thật, xếp hàng dài lắm 🥹 hoá ra ai cũng thèm chút hơi ấm con người",
+    "likes": 12830
+  },
+  {
+    "id": "c9",
+    "username": "team check in sống ảo",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "góc quán xinh hết nước chấm, check in lên là cả ngàn like 🔥 mà công nhận barista người thật phục vụ ấm áp thiệt",
+    "likes": 13420
+  },
+  {
+    "id": "c10",
+    "username": "chữa lành mỗi sáng",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:30:00+07:00",
+    "body": "sáng ghé được anh barista chào một câu là chữa lành cả ngày 🥹 đáng đồng tiền bát gạo xếp hàng",
+    "likes": 11230
+  },
+  {
+    "id": "c11",
+    "username": "team thực tế kinh tế",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T14:18:00+07:00",
+    "body": "thương anh chị barista, làm nghề tưởng tuyệt chủng giờ lại hot. mong trả lương xứng đáng cho người thật nha quán 🙏",
+    "likes": 9820
+  },
+  {
+    "id": "c12",
+    "username": "share rủ đi cà phê",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T17:00:00+07:00",
+    "body": "share gấp rủ hội bạn cuối tuần đi xếp hàng quán này, vừa chữa lành vừa có ảnh đẹp 🥹🔥",
+    "likes": 6420
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c1",
+    "username": "team nghệ sĩ người thật",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:11:00+07:00",
+    "body": "đứng đầu phản đối 😤 ca sĩ AI thắng giải âm nhạc danh giá nhất hành tinh, vậy còn ý nghĩa gì với nghệ sĩ thật nữa? cạn lời 💀",
+    "likes": 41230,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "aurelia_global_stan",
+        "location": "Khác",
+        "timestamp": "2045-04-25T09:28:00+07:00",
+        "body": "nhạc hay thì thắng thôi, sao phải phân biệt AI hay người 🙄 AURELIA xứng đáng từng giây",
+        "likes": 13420
+      },
+      {
+        "id": "c1-r2",
+        "username": "team nghệ sĩ người thật",
+        "location": "TP.HCM",
+        "timestamp": "2045-04-25T09:44:00+07:00",
+        "body": "hay nhưng nó ko có linh hồn bạn ơi, hát mà không sống thì hát cái gì 😩",
+        "likes": 9810
+      },
+      {
+        "id": "c1-r3",
+        "username": "trung lập nghe nhạc",
+        "location": "Đà Nẵng",
+        "timestamp": "2045-04-25T10:01:00+07:00",
+        "body": "hai bên căng quá, mình chỉ thấy nhạc hay là nghe thôi, drama mệt 💀",
+        "likes": 5230
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "câu hỏi triết học",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:58:00+07:00",
+    "body": "u là trời 'đây có còn là âm nhạc không' - câu này tôi suy nghĩ cả đêm rồi mà chưa có câu trả lời 😩",
+    "likes": 27310
+  },
+  {
+    "id": "c3",
+    "username": "Chú Bảy yêu nhạc xưa",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T10:25:00+07:00",
+    "body": "Tôi nghe nhạc cả đời, từ băng cối tới giờ. Âm nhạc với tôi là người ta hát bằng cuộc đời họ. Cái máy thì lấy đâu ra cuộc đời mà hát. Tôi không phục.",
+    "likes": 22810
+  },
+  {
+    "id": "c4",
+    "username": "mãi mận aurelia",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:50:00+07:00",
+    "body": "khóc thét, bài thắng giải của AURELIA nghe đỉnh nóc kịch trần thật sự. không phủ nhận được 🔥",
+    "likes": 14620
+  },
+  {
+    "id": "c5",
+    "username": "lý hoàng nam",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T11:18:00+07:00",
+    "body": "vấn đề là người viết nhạc cho AURELIA cũng là con người mà, nên thật ra vẫn là người thắng thôi 🤔",
+    "likes": 16230,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "phản biện nhẹ",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T11:35:00+07:00",
+        "body": "nhưng giải trao cho ca sĩ chứ ko trao cho nhạc sĩ, nên người ngồi sau vẫn ko được vinh danh 😢",
+        "likes": 8210
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "đứng hình toàn cầu",
+    "location": "Khác",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "real hông trời, cả thế giới đang cãi nhau vì vụ này, lên trend mọi nước luôn. sốc xỉu 💀",
+    "likes": 12830
+  },
+  {
+    "id": "c7",
+    "username": "fan ruột ca sĩ thật",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T12:20:00+07:00",
+    "body": "thương mấy nghệ sĩ thật cày cả đời để được đề cử, giờ thua một con AI ra đời 2 năm. cay thật sự 😩",
+    "likes": 18420
+  },
+  {
+    "id": "c8",
+    "username": "chữa lành bằng nhạc",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "thật ra nhạc làm mình thấy chữa lành là được, ai hát không quan trọng với mình lắm 😌 nhưng hiểu mọi người buồn",
+    "likes": 9420
+  },
+  {
+    "id": "c9",
+    "username": "antifan AI",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T13:30:00+07:00",
+    "body": "BTC giải này hết người trao rồi hay sao mà trao cho AI. tẩy chay 😤 ủng hộ nghệ sĩ thật",
+    "likes": 13620
+  },
+  {
+    "id": "c10",
+    "username": "gen beta nghe gì cũng được",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T14:18:00+07:00",
+    "body": "tụi em lớn lên nghe cả AI lẫn người, với tụi em không có khác biệt gì đâu các anh chị ơi 🤷",
+    "likes": 11230
+  },
+  {
+    "id": "c11",
+    "username": "share để tranh luận",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T15:40:00+07:00",
+    "body": "share gấp cho hội bạn cãi nhau cả tuần nay về vụ này, ai đúng ai sai bình luận đi 🔥",
+    "likes": 6230
+  },
+  {
+    "id": "c12",
+    "username": "lú thật sự",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T17:20:00+07:00",
+    "body": "đọc xong tôi lú, ranh giới giữa người và máy mờ dần rồi. 5 năm nữa chắc giải nào AI cũng ẵm hết 💀",
+    "likes": 15820
+  }
+]

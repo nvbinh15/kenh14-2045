@@ -1,0 +1,108 @@
+[
+  {
+    "id": "c1",
+    "username": "team yêu xa thấu hiểu",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:12:00+07:00",
+    "body": "đứng đầu khóc thét 😭 đi 15 tiếng đổi 3 chặng chỉ để ôm nhau một cái, đây mới là tình yêu thật sự 🥹 chữa lành quá",
+    "likes": 38420
+  },
+  {
+    "id": "c2",
+    "username": "khóc đoạn đoàn tụ",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T09:29:00+07:00",
+    "body": "u là trời cái khoảnh khắc gặp nhau ở ga, bạn nữ vác balo mệt rã mà cười rạng rỡ, tôi rớt nước mắt luôn 🥹",
+    "likes": 27310
+  },
+  {
+    "id": "c3",
+    "username": "Chú lái tàu về hưu",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Tôi làm ngành đường sắt 35 năm. Đoạn cao tốc Hà Nội - Đà Nẵng dang dở bao năm rồi. Thương tụi nhỏ phải đổi tàu xe khách tàu. Mong sớm thông tuyến cho các cháu đỡ khổ.",
+    "likes": 24820
+  },
+  {
+    "id": "c4",
+    "username": "team trách hạ tầng",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T10:15:00+07:00",
+    "body": "tình yêu đẹp thật nhưng cái đoạn cao tốc dang dở mấy năm rồi mới là vấn đề chính 😩 bao giờ mới xong trời",
+    "likes": 21310
+  },
+  {
+    "id": "c5",
+    "username": "mãi mận tình yêu xa",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:42:00+07:00",
+    "body": "trộm vía mình cũng yêu xa, đọc xong thấy được tiếp thêm động lực. yêu xa khó mà đáng 🥹💗",
+    "likes": 16420
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ lo cho con gái",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T11:10:00+07:00",
+    "body": "Con gái tôi cũng yêu xa, đi tàu xe một mình tôi lo lắm. Thấy clip này tôi vừa thương vừa lo. Mong tụi nhỏ giữ gìn sức khoẻ.",
+    "likes": 18820
+  },
+  {
+    "id": "c7",
+    "username": "lý thành đạt",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "15 tiếng cho một quãng đáng lẽ 3 tiếng nếu cao tốc xong. tình yêu vượt cả hạ tầng, vừa thương vừa nể 🥹",
+    "likes": 14620,
+    "replies": [
+      {
+        "id": "c7-r1",
+        "username": "đồng cảm yêu xa",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T12:01:00+07:00",
+        "body": "đúng luôn, tụi mình yêu xa khổ nhất là khoản di chuyển. mong tuyến này sớm thông 🙏",
+        "likes": 7210
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "username": "real hông cảm động",
+    "location": "Khác",
+    "timestamp": "2045-04-25T12:20:00+07:00",
+    "body": "real hông, mình yêu xa hai châu lục bay cả chục tiếng còn được, 15 tiếng tàu xe là hợp lý mà 🥹 thương các bạn",
+    "likes": 12830
+  },
+  {
+    "id": "c9",
+    "username": "chữa lành cuối tuần",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "tin này chữa lành ghê, giữa bao drama showbiz thì một câu chuyện tình giản dị như vầy đáng quý lắm 🥹",
+    "likes": 13420
+  },
+  {
+    "id": "c10",
+    "username": "team thực tế",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:30:00+07:00",
+    "body": "đẹp thì đẹp nhưng đi 15 tiếng hoài thì kiệt sức lắm, mong hai bạn sớm về một thành phố cho đỡ cực 😩",
+    "likes": 11230
+  },
+  {
+    "id": "c11",
+    "username": "lú vì ngọt",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T14:18:00+07:00",
+    "body": "u là trời đọc xong tôi lú, người ta yêu xa 15 tiếng còn cố, tôi yêu gần 15 phút lười nhắn tin 💀 tự thấy nhục",
+    "likes": 17320
+  },
+  {
+    "id": "c12",
+    "username": "share động viên",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T17:00:00+07:00",
+    "body": "share gấp cho hội yêu xa cùng tiếp lửa nào, mong cặp này về chung một nhà sớm 🥹💗",
+    "likes": 6420
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "c1",
+    "username": "team mê fancam",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T09:06:00+07:00",
+    "body": "đứng đầu xỉu ngang 😍 tự dựng fancam cận mặt mình mà visual đỉnh nóc kịch trần, ai cũng thành idol được 🔥 gét gô làm liền",
+    "likes": 39420
+  },
+  {
+    "id": "c2",
+    "username": "cười xỉu chứng nhận",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T09:23:00+07:00",
+    "body": "u là trời câu 'Chứng nhận Đan Sa cho cái visual này đi' tôi cười sặc 😂 cả cõi mạng đang đùa câu này luôn",
+    "likes": 31310
+  },
+  {
+    "id": "c3",
+    "username": "Chú trung niên thử app",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T09:48:00+07:00",
+    "body": "Con tôi cài cho tôi cái fancam này, dựng tôi đứng trên sân khấu lung linh. Tôi 55 tuổi mà nhìn cũng oách phết. Buồn cười thật.",
+    "likes": 22820
+  },
+  {
+    "id": "c4",
+    "username": "khóc thét vì đẹp",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T10:15:00+07:00",
+    "body": "khóc thét, fancam dựng tôi đẹp hơn cả idol thật, giờ tôi nhìn mặt thật của mình hơi hụt hẫng 😭💀",
+    "likes": 21310,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "team thực tế",
+        "location": "Hà Nội",
+        "timestamp": "2045-04-25T10:31:00+07:00",
+        "body": "đó mới là cái đáng lo nha, fancam đẹp quá rồi đời thực thành ra tự ti 😩",
+        "likes": 8910
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "mãi mận trợ lý số 9",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T10:42:00+07:00",
+    "body": "trộm vía Trợ lý Số 9 ra tính năng nào trúng tính năng đó 🔥 fancam này gây nghiện thật sự, tôi dựng 20 cái rồi",
+    "likes": 16420
+  },
+  {
+    "id": "c6",
+    "username": "team center mỗi nhà",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T11:10:00+07:00",
+    "body": "ai cũng là center trong fancam của riêng mình 👑 visual đỉnh, gen z giờ ai cũng có khoảnh khắc idol gét gô 🔥",
+    "likes": 14620
+  },
+  {
+    "id": "c7",
+    "username": "Mẹ không hiểu fancam",
+    "location": "Cần Thơ",
+    "timestamp": "2045-04-25T11:45:00+07:00",
+    "body": "Con tôi cứ dán mắt vào cái clip nó tự quay rồi cười một mình. Tôi hỏi xem gì, nó bảo fancam của con. Tôi chịu, không hiểu giới trẻ bây giờ.",
+    "likes": 18820
+  },
+  {
+    "id": "c8",
+    "username": "lý hoài nam",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T12:20:00+07:00",
+    "body": "vui thì vui nhưng dựng visual ảo đẹp quá rồi đối mặt với mặt thật là cả vấn đề tâm lý đó nha 😅 chơi vừa thôi",
+    "likes": 13230,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "đồng tình nhẹ",
+        "location": "Hải Phòng",
+        "timestamp": "2045-04-25T12:37:00+07:00",
+        "body": "chuẩn, chơi cho vui thì ok chứ nghiện fancam ảo là toang 💀",
+        "likes": 6740
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "real hông xài thử",
+    "location": "Khác",
+    "timestamp": "2045-04-25T12:55:00+07:00",
+    "body": "real hông trời, bên này cũng đang sốt tính năng này 🔥 ai cũng đăng fancam của mình, vui mà hơi loạn 😂",
+    "likes": 12830
+  },
+  {
+    "id": "c10",
+    "username": "chữa lành bằng fancam",
+    "location": "TP.HCM",
+    "timestamp": "2045-04-25T13:30:00+07:00",
+    "body": "thật ra ngày buồn dựng cái fancam thấy mình lung linh cũng chữa lành phết 🥹 ai phán xét kệ, tôi vui là được",
+    "likes": 13420
+  },
+  {
+    "id": "c11",
+    "username": "antitech nhẹ",
+    "location": "Đà Nẵng",
+    "timestamp": "2045-04-25T14:18:00+07:00",
+    "body": "lại thêm một thứ làm tụi nhỏ sống ảo, mệt với mấy cái app này 🙄 ngoài đời đẹp tự nhiên không thích đi tự dựng",
+    "likes": 9820
+  },
+  {
+    "id": "c12",
+    "username": "đội quân meme đan sa",
+    "location": "Hải Phòng",
+    "timestamp": "2045-04-25T15:40:00+07:00",
+    "body": "trend 'Chứng nhận Đan Sa cho cái visual này' lên top rồi nha mọi người 😂🔥 chế meme cười không nhặt được mồm",
+    "likes": 15620
+  },
+  {
+    "id": "c13",
+    "username": "share cho hội bạn",
+    "location": "Hà Nội",
+    "timestamp": "2045-04-25T17:00:00+07:00",
+    "body": "share gấp cho hội bạn dựng fancam nhóm rồi đăng đua nhau nào, cuối tuần này vui phải biết 🔥😆",
+    "likes": 6420
+  }
+]
