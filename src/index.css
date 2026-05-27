@@ -1,0 +1,220 @@
+/* kenh14.vn uses Arial/Helvetica system fonts — no web font needed. */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #15171a;
+  background: #f4f5f7;
+  font-size: 14px;
+  line-height: 1.45;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+
+#root { min-height: 100vh; }
+
+/* ---- Category nav strip (Kenh14 magenta bar) ---------------------------- */
+.k14-nav-link {
+  display: inline-flex;
+  align-items: center;
+  height: 42px;
+  padding: 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #ffffff;
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  border-bottom: 3px solid transparent;
+  transition: background 0.12s ease;
+}
+@media (min-width: 1024px) {
+  .k14-nav-link { height: 46px; padding: 0 12px; }
+}
+.k14-nav-link:hover { background: rgba(0,0,0,0.14); }
+.k14-nav-link.active { border-bottom-color: #ffd400; }
+.k14-nav-accent { color: #ffd400; }
+
+/* ---- Section header bar ------------------------------------------------- */
+.k14-section-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.k14-section-title .label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+.k14-section-title h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+  font-weight: 800;
+  color: #15171a;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  margin: 0;
+  position: relative;
+  padding-left: 12px;
+}
+.k14-section-title h2::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 2px; bottom: 2px;
+  width: 5px;
+  border-radius: 3px;
+  background: var(--sec-accent, #a70e1a);
+}
+.k14-section-title .k14-section-subcats {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: #6b7280;
+  flex-wrap: wrap;
+}
+.k14-section-title .k14-section-subcats a:hover { color: #a70e1a; }
+.k14-section-title .k14-section-more {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #a70e1a;
+  white-space: nowrap;
+}
+
+/* ---- Cards -------------------------------------------------------------- */
+.k14-card {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.k14-thumb {
+  position: relative;
+  overflow: hidden;
+  background: #e7e7ea;
+}
+.k14-thumb img {
+  width: 100%; height: 100%; object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+.k14-card a:hover .k14-thumb img { transform: scale(1.05); }
+.k14-card a:hover .k14-title,
+.k14-card a:hover h2,
+.k14-card a:hover h3 { color: #a70e1a; }
+
+.k14-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: #15171a;
+  margin: 0;
+  transition: color 0.12s ease;
+}
+.k14-hero-title { font-size: 26px; line-height: 32px; font-weight: 800; }
+@media (max-width: 1023px) { .k14-hero-title { font-size: 21px; line-height: 27px; } }
+.k14-title-lg { font-size: 18px; line-height: 24px; }
+.k14-title-md { font-size: 15.5px; line-height: 21px; }
+.k14-title-sm { font-size: 14px; line-height: 19px; }
+.k14-title-xs { font-size: 13px; line-height: 18px; }
+
+.k14-desc {
+  font-size: 14px;
+  line-height: 20px;
+  color: #5b616b;
+  margin: 0;
+}
+
+/* ---- View-count + meta chip -------------------------------------------- */
+.k14-views {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #8a8f98;
+}
+.k14-comment {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  color: #a70e1a;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* ---- HOT badge (overlay on thumb) -------------------------------------- */
+.k14-hot {
+  position: absolute;
+  top: 8px; left: 8px;
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  background: #ff1f4b;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 10.5px;
+  letter-spacing: 0.6px;
+  padding: 3px 7px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.18);
+}
+
+/* ---- Category chip (per-section colour) -------------------------------- */
+.k14-chip {
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 5px;
+  color: #fff;
+  margin-bottom: 6px;
+}
+
+/* ---- Scroll helper ------------------------------------------------------ */
+.k14-scroll-x { overflow-x: auto; scrollbar-width: none; }
+.k14-scroll-x::-webkit-scrollbar { display: none; }
+
+/* ---- Trending rail numbers --------------------------------------------- */
+.k14-rank {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1;
+  color: #a70e1a;
+  width: 24px;
+  flex-shrink: 0;
+}
+
+/* ---- Article body ------------------------------------------------------- */
+.k14-body p {
+  font-size: 16.5px;
+  line-height: 27px;
+  color: #1d2025;
+  margin: 0 0 18px;
+}
+.k14-body h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 19px;
+  line-height: 26px;
+  color: #15171a;
+  margin: 26px 0 12px;
+}
+.k14-body ul { margin: 0 0 18px; padding-left: 20px; list-style: disc; }
+.k14-body li { font-size: 16.5px; line-height: 26px; margin-bottom: 6px; }
+.k14-body strong { font-weight: 700; }
